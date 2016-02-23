@@ -7,8 +7,7 @@ This pkg computes the Voronoi region of a continuous non-convex environment
 % and represent this tiles as a grid graph, in which the 
 % center of cells considered as the nodes of the graph. 
 % The detail of this step can be found in : 
-% http://www.mathworks.com/matlabcentral/fileexchange/55519-discretizing--
-% tiling--the-input-map-into-a-grid-graph--and-fast-finding-shortest-path-between-points?s_tid=srchtitle
+% http://www.mathworks.com/matlabcentral/fileexchange/55519-discretizing--tiling--the-input-map-into-a-grid-graph--and-fast-finding-shortest-path-between-points?s_tid=srchtitle
 
 %the advantage of this method is its applicability in
 % non-convex spaces. To define %the sites (center) of 
